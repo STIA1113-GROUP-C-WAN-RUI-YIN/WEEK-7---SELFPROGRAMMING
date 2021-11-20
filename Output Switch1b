@@ -1,0 +1,25 @@
+NOT SURE what to eat for your BREAKFAST? 
+No worries. We are here to help you. ^_^ 
+1:rice, 2:fried noodles, 3:soup noodles, 4:roti, 5:drinks
+First of all please insert an integer from 1-5. 
+2
+Fried Noodles. 
+1: bihun
+2: keutiaw
+3: mee
+4: instant noodles
+Please insert an integer 1-4 to determine your type of noodles. 
+2
+Keutiaw
+1: sambal
+2: fried egg
+3: fried chicken
+4: rendang chicken
+5: masak merah chicken
+6: mixed vegetables
+7: curry vegetables
+8: all add-ons
+Please insert an integer 1-8 to determine your add-ons. 
+5
+Masak Merah Chicken 
+Your breakfast today is fried Keutiaw with add-ons Masak Merah Chicken.
