@@ -1,0 +1,27 @@
+NOT SURE what to have for your Hi-Tea ? 
+No worries. We are here to help you. ^_^ 
+
+WELCOME to MyTEA !! 
+First of all please insert an int from 1-6. 
+4
+Black Diamond Milk Tea
+Please insert an integer 1-3 to determine your amount of sugar. 
+1
+No sugar
+Please insert an integer 1-3 to determine your type of milk. 
+2
+Low Fat Milk 
+Please insert an integer 1-3 to determine your amount of milk. 
+3
+Full milk 
+Please insert an integer 1-3 to determine your amount of ice. 
+2
+Half ice 
+Please insert an integer 1-7 to determine your add-ons. 
+2
+Red Beans 
+You ordered milk tea number 4 which is Black Diamond Milk Tea with amount of sugar number 1 which is No Sugar with milk number 2 which is Low Fat Milk with amount of milk number 3 which is Full Milk with amount of ice number 2 which is Half Ice  and add-ons number 2 which is Red Beans .
+Please confirm your purchase by pressing int 1 or cancel it by pressing int 2.
+1
+Your Black Diamond Milk Tea with No Sugar Low Fat Milk Full Milk Half Ice  and add-ons number Red Beans  will be ready soon.
+Thank You ! Please come again !
