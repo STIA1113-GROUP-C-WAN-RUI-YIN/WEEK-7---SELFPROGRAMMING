@@ -10,7 +10,7 @@ public class Example12 {
 		while (!found){	
 		if(i==5) {
 			found = true;
-		System.out.println("Continue");
+		System.out.println("i = " +i);
 		}
 		}
 
