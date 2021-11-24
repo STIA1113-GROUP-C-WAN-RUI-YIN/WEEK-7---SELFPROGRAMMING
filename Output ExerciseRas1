@@ -1,0 +1,27 @@
+Please enter an integer (0-100) : 
+50
+Too high
+Please enter an integer (0-100) : 
+40
+Too high
+Please enter an integer (0-100) : 
+30
+Too high
+Please enter an integer (0-100) : 
+20
+Too high
+Please enter an integer (0-100) : 
+10
+Too high
+Please enter an integer (0-100) : 
+1
+Too low
+Please enter an integer (0-100) : 
+5
+Too high
+Please enter an integer (0-100) : 
+3
+Too low
+Please enter an integer (0-100) : 
+4
+Congratulations
