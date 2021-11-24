@@ -1,1 +1,9 @@
-2 4 
+i is 1 and i%2 is 1. Not equal to 0.
+i is 2 and i%2 is 0.
+i is 3 and i%2 is 1. Not equal to 0.
+i is 4 and i%2 is 0.
+i is 5 and i%2 is 1. Not equal to 0.
+i is 6 and i%2 is 0.
+i is 7 and i%2 is 1. Not equal to 0.
+i is 8 and i%2 is 0.
+i is 9 and i%2 is 1. Not equal to 0.
